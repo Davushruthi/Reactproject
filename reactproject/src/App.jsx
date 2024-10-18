@@ -42,7 +42,7 @@ import React from 'react'
 function App() {
   return (
     <>
-    <h1 style="color:purple">Bangtan Sonyeondan</h1>
+    <h1>Bangtan Sonyeondan</h1>
     </>
   )
 }
